@@ -11,4 +11,8 @@ Quizizz bots
 
 # Solver
 
-Press enter to automatically solve a question
+Press Enter to automatically solve a question
+
+# Autosolver
+
+Automatically solves all questions with specified delay
