@@ -15,4 +15,4 @@ Press Enter to automatically solve a question
 
 # Autosolver
 
-Automatically solves all questions with specified delay
+Automatically solves all questions within a specified delay
